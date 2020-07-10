@@ -1,0 +1,106 @@
+.navbar img{
+    width:40px;
+}
+.navbar-brand{
+    margin-left: 250px;
+}
+.navbar-nav{
+    margin-right: 250px;
+}
+body{
+    position: relative;
+width: 1440px;
+height: 1220px;
+background: #F3F1FF;
+}
+.top-player img{
+    width: 56px;
+    height: 56px;
+}
+main{
+    width: 870px;
+}
+.top-player{
+    position: absolute;
+    background-color: #ffffff;
+width: 870px;
+height: 679px;
+left: 285px;
+top: 130px;
+margin-top: 36px;
+}
+hr.new1 {
+    position: absolute;
+    width: 807px;
+    height: 0px;
+    left: 315px;
+    top: 410px;
+    
+    border: 1px solid #D1D1D1;
+  }
+  .top-blog img{
+    position: static;
+    width: 177px;
+    height: 117px;
+    left: 315px;
+    top: 507px;
+  }
+  
+h3{  
+    color: #562EFF;
+  }
+  
+  .top-blog {
+    position: absolute;
+    left: 310px;
+    top: 420px; 
+  }
+  .card-deck{
+      border: none;
+  }
+  .card-body{
+      padding-left: 150px;
+  }
+  .mb-3{
+      border: none;
+  }.card-title{
+    position: absolute;
+    width: 163px;
+    height: 68px;
+    left: 508px;
+    top: 507px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 34px;
+    
+    
+    color: #000000;
+  }
+  .card-text{
+      margin-top: 0px;
+  }
+  .online-courses{
+    position: absolute;
+    width: 870px;
+    height: 362px;
+    left: 285px;
+    top: 830px;
+    
+    background: #FFFFFF;
+    border-radius: 5px;
+  }
+
+.course{
+  height:255px;
+  width: 200px;
+  border: none;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  .p-2 img{
+max-height: 15px;
+max-width: 24px;
+  }
