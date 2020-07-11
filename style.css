@@ -32,7 +32,7 @@ margin-top: 36px;
 hr.new1 {
     position: absolute;
     width: 807px;
-    height: 0px;
+    height:0px;
     left: 315px;
     top: 410px;
     
@@ -46,7 +46,7 @@ hr.new1 {
     top: 507px;
   }
   
-h3{  
+h2,h3{  
     color: #562EFF;
   }
   
@@ -82,19 +82,21 @@ h3{
   .card-text{
       margin-top: 0px;
   }
-  .online-courses{
+  #online{
     position: absolute;
     width: 870px;
     height: 362px;
     left: 285px;
-    top: 830px;
+    top: 900px;
     
     background: #FFFFFF;
     border-radius: 5px;
+    padding-top: 20px;
+    padding-left: 15px;
   }
 
 .course{
-  height:255px;
+  height:260px;
   width: 200px;
   border: none;
     padding-right: 10px;
@@ -103,4 +105,7 @@ h3{
   .p-2 img{
 max-height: 15px;
 max-width: 24px;
+  }
+  .checked {
+    color: orange;
   }
